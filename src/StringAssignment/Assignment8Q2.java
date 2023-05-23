@@ -5,6 +5,7 @@ public class Assignment8Q2 {
         stringBuffer.append(" is a peer class of String");
         stringBuffer.append(" that provides much of");
         stringBuffer.append(" the functionality of strings");
+        System.out.println(stringBuffer);
 
         StringBuffer stringBuffer1 = new StringBuffer("It is used to  at the specified index position");
         stringBuffer1.insert(14, "insert text");
